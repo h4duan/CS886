@@ -1,8 +1,8 @@
 # 	Oct 20, 2020	
- *  Few-shot Domain Adaptation by Causal Mechanism Transfer   
-    T. Teshima, I. Sato, and M. Sugiyama    
-    Yiwei Lu
-    zoom (Tu 9-12)   
+ *  title   
+    author    
+    presenter  
+    pre-record or zoom (preferred time)    
     
  *   title   
     author   
@@ -25,10 +25,10 @@
     pre-record or zoom (preferred time)    
     
 #	Oct 27, 2020				
- *  title   
-    author    
-    presenter  
-    pre-record or zoom (preferred time)    
+ *  title: Causal Modeling for Fairness In Dynamical Systems
+    author: Elliot Creager, David Madras, Toniann Pitassi, Richard Zemel    
+    presenter: Haonan Duan  
+    pre-record or zoom (preferred time): Pre-recorded    
    
  *   title   
     author   
